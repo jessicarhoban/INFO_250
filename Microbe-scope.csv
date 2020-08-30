@@ -1,0 +1,62 @@
+﻿Disease name,Pathogen name,Pathogen type,Pathogen size,"Pathogen size, grouped","R0, average estimate",Contagiousness category,Case fatality rate %,Google hits,Google News hits,News hits as % general hits (inflammation rating),Notoriety to fatalities ratio (Google hits / world case fatality rate),Primary mode of transmission ,Survival time on surfaces (days),Global (New cases per year),United States (New cases per year),Europe (New cases per year),Africa (New cases per year),Global fatalities,United States fatalities,Europe fatalities,Africa fatalities,Global (Years lived with disease or lost to early mortality),United States (Years lived with disease or lost to early mortality),Europe (Years lived with disease or lost to early mortality),Africa (Years lived with disease or lost to early mortality)
+HIV (untreated),Human immunodeficiency virus,virus,120.00,100 nm < 1 µm,3.5,very,0.80,58400000.00,7300000.00,12.50,73000000.00,sexual contact,7.00,1865245.00,45611.00,95442.00,1326557.00,1033751.00,7116.00,28716.00,786096.00,57575392.00,418836.00,1592008.00,44564391.00
+HIV (treated),Human immunodeficiency virus,virus,120.00,100 nm < 1 µm,3.5,very,0.02,58400000.00,7300000.00,12.50,2780952381.00,sexual contact,7.00,1865245.00,45611.00,95442.00,1326557.00,1033751.00,7116.00,28716.00,786096.00,57575392.00,418836.00,1592008.00,44564391.00
+Zika,Zika virus,virus,40.00,<100 nm,4,very,,10400000.00,502000.00,4.80,,"bite, sexual contact",,,,,,,,,,,,,
+MERS,MERS coronavirus,virus,127.00,100 nm < 1 µm,0.5,not very,0.45,14500000.00,287000.00,2.00,32222222.00,airborne,2.00,,,,,170.00,0.00,,2.00,,,,
+Influenza (bird flu),Influenza A virus (H5N1),virus,100.00,100 nm < 1 µm,1,not very,0.60,3500000.00,62900.00,1.80,5833333.00,airborne,2.00,2000.00,13.00,,,18.00,0.00,,3.00,,,,
+Pneumonia (pneumococcal),Streptococcus pneumoniae,bacterium,875.00,100 nm < 1 µm,2,quite,0.08,35400000.00,598000.00,1.70,472000000.00,"airborne, body fluids",,,,,,,,,,,,,
+Influenza (swine flu),Influenza A virus (H1N1),virus,100.00,100 nm < 1 µm,1.5,quite,0.00,5670000.00,82300.00,1.50,2835000000.00,airborne,0.40,,,,,360000.00,12500.00,,,,,,
+Malaria (P. falciparum),Plasmodium falciparum,parasite,2000.00,1 µm < 10 µm,115,astronomically,0.01,13600000.00,85900.00,0.63,2720000000.00,bite,0.00,213098073.00,0.00,0.00,192357286.00,719551.00,0.00,0.00,643642.00,56201233.00,0.00,0.00,51394662.00
+"Meningitis (meningococcal, untreated)",Neisseria meningitidis ,bacterium,7000.00,1 µm < 10 µm,1.3,quite,0.50,1060000.00,14000.00,1.30,2120000.00,"airborne, body fluids",,561372.00,3239.00,14528.00,386716.00,127424.00,370.00,1618.00,66043.00,8327140.00,17379.00,84781.00,4652170.00
+"Meningitis (meningococcal, treated)",Neisseria meningitidis ,bacterium,7000.00,1 µm < 10 µm,1.3,quite,0.12,1060000.00,14000.00,1.30,9217391.00,"airborne, body fluids",,561372.00,3239.00,14528.00,386716.00,127424.00,370.00,1618.00,66043.00,8327140.00,17379.00,84781.00,4652170.00
+Influenza (seasonal flu),"Influenza viruses, various species",virus,85.00,<100 nm,2.5,quite,0.00,810000.00,9300.00,1.10,810000000.00,airborne,1.00,,,,,375000.00,26000.00,,,,,,
+Influenza (Spanish flu),Influenza A virus (H1N1),virus,100.00,100 nm < 1 µm,3,very,0.03,608000.00,5890.00,0.97,24320000.00,airborne,,,,,,75000000.00,650000.00,,,,,,
+Norovirus,"Noroviruses, various serotypes",virus,31.00,<100 nm,2,quite,0.00,3010000.00,27400.00,0.91,30100000000.00,"fecal-oral, surfaces",12.00,,,,,150000.00,690.00,,60000.00,,,,
+West Nile fever,West Nile virus,virus,50.00,<100 nm,9,highly,,2590000.00,22900.00,0.88,,bite,,,,,,,,,,,,,
+Marburg,Marburg virus,virus,1000.00,1 µm < 10 µm,1.6,quite,0.50,7150000.00,50700.00,0.71,14300000.00,body fluids,4.00,,,,,,,,,,,,
+Shigellosis,"Shigella, various species",bacterium,2000.00,1 µm < 10 µm,1.5,quite,,653000.00,4510.00,0.69,,,,,,,,,,,,,,,
+Tuberculosis (untreated),Mycobacterium tuberculosis ,bacterium,3000.00,1 µm < 10 µm,10,extremely,0.60,13500000.00,84300.00,0.62,22500000.00,airborne,60.00,9019296.00,10760.00,186537.00,2305894.00,1213057.00,956.00,23435.00,421376.00,43557934.00,21580.00,806697.00,16473031.00
+SARS,SARS coronavirus,virus,115.00,100 nm < 1 µm,2.4,quite,0.10,5670000.00,34300.00,0.60,59062500.00,airborne,1.00,,,,,0.00,0.00,,0.00,,,,
+Chikungunya,Chikungunya virus,virus,65.00,<100 nm,3.5,very,0.00,7480000.00,39400.00,0.53,1870000000.00,bite,,,,,,,,,,,,,
+Hantavirus,Hantavirus,virus,140.00,100 nm < 1 µm,1.3,quite,0.36,872000.00,4210.00,0.48,2422222.00,"airborne, fecal-oral",8.00,175000.00,,3667.00,,,29.00,,,,,,
+Ebola,"Ebolavirus, various species",virus,14000.00,10 µm < 100 µm,2.5,quite,0.50,10300000.00,45400.00,0.44,20600000.00,body fluids,0.50,41.00,0.00,0.00,41.00,4.00,0.00,0.00,4.00,331.00,0.00,0.00,330.00
+Hepatitis A,Hepatitis A virus,virus,30.00,<100 nm,1.3,quite,,4820000.00,19400.00,0.40,,fecal-oral,,159515772.00,629672.00,1694948.00,20917489.00,5249.00,70.00,105.00,629.00,450659.00,3818.00,6411.00,57958.00
+Leprosy,Mycobacterium leprae or Mycobacterium lepromatosis,bacterium,5000.00,1 µm < 10 µm,2.8,quite,,2560000.00,7630.00,0.30,,body fluids,,55317.00,35.00,10.00,8814.00,,,,,31654.00,3.00,2.00,7391.00
+Rabies (untreated),"Lyssaviruses, various species",virus,180.00,100 nm < 1 µm,1.6,quite,1.00,13600000.00,34200.00,0.25,13600000.00,bite,0.00,13340.00,5.00,5.00,5718.00,13289.00,5.00,5.00,5677.00,744246.00,228.00,200.00,377224.00
+Polio,Poliovirus,virus,30.00,<100 nm,6,highly,0.22,20300000.00,50000.00,0.25,92272727.00,fecal-oral,,,,,,20.00,0.00,,15.00,,,,
+Cholera,"Vibro cholerae, some strains",bacterium,1300.00,1 µm < 10 µm,2.1,quite,0.02,21300000.00,53500.00,0.25,1306748466.00,,,,,,,94000.00,0.00,,55000.00,,,,
+Rabies (treated),"Lyssaviruses, various species",virus,180.00,100 nm < 1 µm,1.6,quite,0.01,13600000.00,34200.00,0.25,1360000000.00,bite,0.00,13340.00,5.00,5.00,5718.00,13289.00,5.00,5.00,5677.00,744246.00,228.00,200.00,377224.00
+"Hand, foot and mouth",Coxsackievirus A16,virus,30.00,<100 nm,3.5,very,0.00,1120000.00,2790.00,0.25,1866666667.00,body fluids,14.00,,,,,,,,,,,,
+Anthrax (untreated),Bacillus anthracis,bacterium,4000.00,1 µm < 10 µm,6.5,highly,0.20,10700000.00,25600.00,0.24,53500000.00,airborne,,,,,,,0.00,,,,,,
+Scarlet fever,Group A streptococcus: Streptococcus pyogenes and streptococcus dysgalactiae,bacterium,2000.00,1 µm < 10 µm,2.8,quite,0.01,2290000.00,5210.00,0.23,458000000.00,body fluids,,,,,,,3.00,,,,,,
+C. difficile,Clostridium difficile,bacterium,1250.00,1 µm < 10 µm,1.3,quite,0.24,1300000.00,2760.00,0.21,5416667.00,fecal-oral,60.00,,,,,,7300.00,,,,,,
+Measles,Measles virus,virus,650.00,100 nm < 1 µm,15,extremely,0.00,12800000.00,26300.00,0.21,4266666667.00,airborne,0.10,8955238.00,668.00,9404.00,3064120.00,68119.00,2.00,10.00,41610.00,5724752.00,146.00,761.00,3497927.00
+Rotavirus,"Rotaviruses, various species",virus,80.00,<100 nm,18,extremely,0.00,3500000.00,7330.00,0.21,,fecal-oral,7.00,,,,,450000.00,,,230000.00,,,,
+Campylobacter,"Campylobacter, various species",bacterium,4000.00,1 µm < 10 µm,0.2,not very,0.01,3440000.00,5770.00,0.17,286666667.00,food,0.60,,,,,,4000.00,,,,,,
+MRSA,Staphylococcus aureus,bacterium,1000.00,1 µm < 10 µm,1.6,quite,0.20,9270000.00,14500.00,0.16,46350000.00,surfaces,7.00,,,,,,11000.00,,,,,,
+E. coli,Escherichia coli ,bacterium,2000.00,1 µm < 10 µm,1.2,quite,0.04,20500000.00,32400.00,0.16,512500000.00,fecal-oral,1.00,,,,,260000.00,100.00,,103000.00,,,,
+Mumps,Mumps rubulavirus,virus,200.00,100 nm < 1 µm,13,extremely,0.01,5830000.00,8860.00,0.15,583000000.00,airborne,,,,,,,1.00,,,,,,
+Dengue fever,Dengue fever virus,virus,50.00,<100 nm,3,very,0.00,4730000.00,7000.00,0.15,9460000000.00,bite,,101064193.00,23448.00,0.00,8109719.00,37780.00,1.00,0.00,287.00,2956863.00,286.00,8.00,99917.00
+Common cold,Many viral strains. Rhinoviruses most common.,virus,30.00,<100 nm,6,highly,0.00,6820000.00,10100.00,0.15,,airborne,0.10,,,,,,,,,,,,
+Rubella,Rubella virus,virus,60.00,<100 nm,6,highly,0.00,5990000.00,9000.00,0.15,,airborne,,,,,,,1.00,,,,,,
+Salmonella,Salmonella enterica,bacterium,3500.00,1 µm < 10 µm,0.8,not very,0.01,17400000.00,25100.00,0.14,1740000000.00,food,0.60,,,,,115000.00,28.00,,4100.00,,,,
+Chicken pox,Varicella zoster,virus,175.00,100 nm < 1 µm,8.5,highly,0.00,4180000.00,5710.00,0.14,418000000000.00,airborne,0.20,148162466.00,5301792.00,11326037.00,31844891.00,12472.00,295.00,653.00,3948.00,923530.00,18473.00,39852.00,285515.00
+Pneumonic plague (untreated),Yersinia pestis,bacterium,1500.00,1 µm < 10 µm,3.2,very,1.00,312000.00,410.00,0.13,312000.00,airborne,3.00,,,,,,0.00,,,,,,
+Diphtheria,Corynebacterium diphtheriae,bacterium,4000.00,1 µm < 10 µm,6.5,highly,0.08,554000.00,582.00,0.11,7386667.00,body fluids,,4275.00,31.00,187.00,2206.00,1112.00,3.00,13.00,875.00,86928.00,158.00,638.00,70924.00
+vCJD,Misfolded PRNP (prion protein),prion,,varies,0.7,not very,1.00,326000.00,6380.00,2.00,326000.00,,,,,,,,,,,,,,
+Hepatitis B,Hepatitis B virus,virus,42.00,<100 nm,4,very,0.01,13300000.00,14000.00,0.11,1773333333.00,body fluids,0.70,118976405.00,492758.00,1415301.00,32499525.00,100278.00,830.00,1530.00,18471.00,3823834.00,25080.00,42894.00,826573.00
+Typhoid,"Salmonella enterica, serotype Typhi",bacterium,3500.00,1 µm < 10 µm,2.8,quite,0.20,8870000.00,7030.00,0.08,44350000.00,fecal-oral,,11773879.00,1307.00,1879.00,1485406.00,128175.00,9.00,12.00,19246.00,8843034.00,339.00,517.00,1396234.00
+Echinococcosis,Echinococcus granulosus and Echinococcus multilocularis (worms),parasite,4000000.00,> 1 mm,1.5,quite,,444000.00,39.00,0.01,,parasite,,204202.00,281.00,8655.00,116337.00,1012.00,3.00,95.00,604.00,136528.00,227.00,6348.00,83496.00
+Guinea worm disease (untreated),Dracunculus medinensis (worm),parasite,1000000000.00,> 1 mm,20,extremely,,777000.00,4090.00,0.53,,waterborne,,27.00,0.00,0.00,27.00,,,,,1.00,0.00,0.00,1.00
+Helminthiases,Any parasitic worm,parasite,250000000.00,> 1 mm,2.9,quite,,121000.00,26.00,0.02,,fecal-oral,,NA,NA,NA,NA,,,,,,,,
+Yellow fever,Yellow fever virus,virus,50.00,<100 nm,3,very,0.08,7450000.00,5090.00,0.07,99333333.00,bite,,112384.00,0.00,0.00,109357.00,5799.00,0.00,0.00,5657.00,374015.00,0.00,0.00,365802.00
+Leishmaniasis,Leishmania parasites,parasite,4000.00,1 µm < 10 µm,8.5,highly,,2620000.00,2840.00,0.11,,bite,,798806.00,5.00,821.00,128404.00,13669.00,0.00,43.00,6275.00,981055.00,0.00,1107.00,288588.00
+Whooping cough,Bordetella pertussis,bacterium,800.00,100 nm < 1 µm,15,extremely,0.04,4500000.00,3240.00,0.07,112500000.00,airborne,,11627370.00,172444.00,398251.00,4864130.00,73006.00,23.00,43.00,47245.00,6249857.00,3020.00,6249.00,4032759.00
+Lymphatic filariasis,"Wuchereria bancrofti, Brugia malayi, and Brugia timori",parasite,75000000.00,> 1 mm,16,extremely,,384000.00,1800.00,0.47,,bite,,7604356.00,0.00,0.00,4341126.00,,,,,1188968.00,0.00,0.00,670831.00
+Lyme disease,"Borrelia, various species",bacterium,16500.00,10 µm < 100 µm,4.4,very,0.00,9050000.00,6700.00,0.07,4525000000.00,bite,,,,,,,10.00,,,,,,
+Bubonic plague (untreated),Yersinia pestis,bacterium,1500.00,1 µm < 10 µm,1,not very,0.60,2050000.00,895.00,0.04,3416667.00,bite,3.00,,,,,,0.00,,,,,,
+Bubonic plague (treated),Yersinia pestis,bacterium,1500.00,1 µm < 10 µm,1,not very,0.15,2050000.00,895.00,0.04,13666667.00,bite,3.00,,,,,,0.00,,,,,,
+Schistosomiasis,Parasitic flatworms called schistosomes,parasite,15000000.00,> 1 mm,3.1,very,,1640000.00,1370.00,0.08,,waterborne,,71385410.00,0.00,0.00,64713882.00,10095.00,0.00,0.00,8709.00,1863610.00,0.00,0.00,1656672.00
+Smallpox,Variola virus,virus,275.00,100 nm < 1 µm,6,highly,0.15,2370000.00,753.00,0.03,15800000.00,airborne,,,,,,0.00,0.00,,0.00,,,,
+Sleeping sickness,Trypanosoma brucei gambiense or T. brucei rhodesiense,parasite,23500.00,10 µm < 100 µm,0.8,not very,,3600000.00,41500.00,1.20,,s,,4966.00,0.00,0.00,4966.00,2286.00,0.00,0.00,2286.00,128442.00,0.00,0.00,128442.00
+Syphilis (untreated),Treponema pallidum,bacterium,10500.00,10 µm < 100 µm,0.9,not very,0.33,10300000.00,363.00,0.00,31212121.00,sexual contact,11.00,38838005.00,309042.00,1658911.00,15095646.00,109569.00,72.00,179.00,81328.00,9415746.00,13559.00,34014.00,6938342.00
