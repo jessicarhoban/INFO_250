@@ -1,4 +1,4 @@
-## Viruses vs. Bacteria
+# <span style="color:blue"> Viruses </span> vs. <span style="color:red">Bacteria </span>
 Jessica Hoban
 August 30th, 2020
 
